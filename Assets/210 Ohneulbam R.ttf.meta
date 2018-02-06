@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6b2f3eadb6c7d4541a4ed4b8c33430ad
+timeCreated: 1517880573
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 210 Ohneulbam
+  fontNames:
+  - 210 Ohneulbam
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
